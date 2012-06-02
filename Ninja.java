@@ -1,1 +1,4 @@
-public class Ninja{}
+public class Ninja{
+
+	String str="shhhhhh";
+}
