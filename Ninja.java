@@ -5,7 +5,9 @@ public class Ninja{
 	double ddd;
 public void getStr(){
 
-
+if(null == str){
+return "";
+}
 return str;
 }
 }
