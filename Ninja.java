@@ -4,7 +4,7 @@ public class Ninja{
 	int i=0;
 	double ddd;
 public void getStr(){
-
+str=str.toUpperCase();
 if(null == str){
 return "";
 }
