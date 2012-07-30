@@ -1,4 +1,3 @@
 public class Pork{
-String po;
-int i;
+	int i=3;
 }
